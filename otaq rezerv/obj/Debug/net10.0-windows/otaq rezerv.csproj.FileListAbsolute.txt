@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq_rezerv.Form1.resources
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.AssemblyInfo.cs
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\bin\Debug\net10.0-windows\otaq rezerv.exe
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\bin\Debug\net10.0-windows\otaq rezerv.deps.json
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\bin\Debug\net10.0-windows\otaq rezerv.runtimeconfig.json
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\bin\Debug\net10.0-windows\otaq rezerv.dll
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\bin\Debug\net10.0-windows\otaq rezerv.pdb
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.dll
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\refint\otaq rezerv.dll
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.pdb
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rezerv.genruntimeconfig.cache
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\ref\otaq rezerv.dll
+C:\Users\User\OneDrive\Sənədlər\otaq rezervasiyasi\otaq rezerv\otaq rezerv\obj\Debug\net10.0-windows\otaq rez.064F7A6A.Up2Date
